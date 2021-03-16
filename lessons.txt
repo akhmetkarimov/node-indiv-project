@@ -1,0 +1,4 @@
+18.03.2021 - Array, Object
+25.03.2021 - Function, Template (E.js)
+30.03.2021 - E.js, express (static)
+1.04.2021 - Request, Response (GET, POST, PUT, DELETE)
